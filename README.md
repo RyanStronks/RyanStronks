@@ -1,3 +1,5 @@
-Hiya, I’m Ryan Stronks
+Hi, I’m Ryan Stronks
+
+---
 
 Software Development Student
